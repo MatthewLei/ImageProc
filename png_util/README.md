@@ -1,0 +1,1 @@
+My attempt at exposing the PNG file and parsing its data by bits and bytes. goal is to retrieve the raw pixel data and return it in a 2d array or neat package.
